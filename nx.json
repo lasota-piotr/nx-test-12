@@ -25,6 +25,9 @@
     "next-app-e2e": {
       "tags": [],
       "implicitDependencies": ["next-app"]
+    },
+    "shared-lib-publishable": {
+      "tags": []
     }
   }
 }
